@@ -5,3 +5,7 @@
 5. Storybook tutorial Single Component added
 
 -> will continue with Composite Component soon
+
+Problems:
+1. Git first push had errors because first branch is called "main" not "master"
+2. Couldnt setup Storybook with its own tutorial, had help from "Blackbox.ai"
