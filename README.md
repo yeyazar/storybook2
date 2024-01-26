@@ -8,6 +8,7 @@
 update 1: till Build out the states added
 update 2: composite component finished
 fix: is there a problem that is css related?
+update 3: added assets folder and css file but didnt fix???
 
 Problems:
 1. Git first push had errors because first branch is called "main" not "master"
