@@ -5,6 +5,7 @@
 5. Storybook tutorial Single Component added
 
 -> will continue with Composite Component soon
+update 1: till Build out the states added
 
 Problems:
 1. Git first push had errors because first branch is called "main" not "master"
